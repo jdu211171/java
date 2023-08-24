@@ -1,0 +1,18 @@
+😊I'm glad to hear that you are learning Java. It is a powerful and versatile programming language that can be used for many applications. One of the best ways to practice your skills is to solve problems using Java. There are many sources of Java problems online, but I have found some PDF files that might be useful for you.
+
+One of them is [Introduction to Programming in Java](^1^), a textbook by Robert Sedgewick and Kevin Wayne that covers the fundamental concepts of Java and object-oriented programming. It also has many self-study exercises with answers that you can try¹.
+
+Another one is [Java, Java, Java: Object-Oriented Problem Solving](^2^), an open textbook by Ralph Morelli and Ralph Walde that teaches Java in a scientific context. It has many examples, tips, and end-of-chapter exercises that you can use to test your knowledge².
+
+A third one is [Java Problems](^3^), a collection of problems from the University of Cambridge that covers various topics such as loops, arrays, recursion, and inheritance. It also has solutions and hints for some of the problems³.
+
+I hope these PDF files will help you learn and practice Java. Have fun and good luck! 😊
+
+Source: Conversation with Bing, 8/9/2023
+(1) Introduction to Programming in Java. https://introcs.cs.princeton.edu/java/home/chapter1.pdf.
+(2) Introduction to Programming in Java. https://introcs.cs.princeton.edu/java/home/chapter1.pdf.
+(3) Java, Java, Java: Object-Oriented Problem Solving - Open Textbook Library. https://open.umn.edu/opentextbooks/textbooks/218.
+(4) Java, Java, Java: Object-Oriented Problem Solving - Open Textbook Library. https://open.umn.edu/opentextbooks/textbooks/218.
+(5) Java Problems - University of Cambridge. https://www.cl.cam.ac.uk/teaching/0809/LongVac/problems.pdf.
+(6) Java Problems - University of Cambridge. https://www.cl.cam.ac.uk/teaching/0809/LongVac/problems.pdf.
+(7) undefined. http://www.pearsoned.com/legal/permissions.htm.😊
